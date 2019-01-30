@@ -2,7 +2,7 @@ body{
   background:#f4f4f4;
 }
 
-/* Navbar */
+/* Nav bar */
 .navbar{
   min-height: 33px !important;
   margin-bottom:0;
@@ -69,7 +69,7 @@ body{
   color: #ffbbbc;
 }
 
-/* Custom */
+/* Custom styles */
 .main-color-bg{
   background-color: #e74c3c !important;
   border-color: #c0392b !important;
